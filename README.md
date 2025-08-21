@@ -6,17 +6,17 @@ This Java program is an interactive chatbot designed to provide financial tradin
 ## Features
 
 1. **Interactive User Interface**  
-   The program engages users through a menu interface, allowing multiple queries and advice sessions.  
+   The program engages users through a menu interface, allowing multiple queries and advice sessions. The chatbot responds to different user inputs with contextual guidance, simulating a real trading assistant.  
 
    ![Menu Example](CB1.png)  
 
-2. **Personalized Financial Advice**  
-   The chatbot responds to different user inputs with contextual guidance, simulating a real trading assistant.  
+2. **Buying**  
+   Users can hypothetically buy shares of a company to see how their decisions will play out.  
 
    ![Advice Example](CB2.png)  
 
-3. **Buying**  
-   Users can hypothetically buy shares of a company to see how their decisions will play out.  
+3. **Selling**  
+   Users can sell their shares of stock to demonstrate real-life trading scenarios.  
 
    ![Scenario Example](CB3.png)  
 
@@ -25,7 +25,7 @@ This Java program is an interactive chatbot designed to provide financial tradin
    
    ![Response Example](CB4.png)  
 
-6. **Advice**  
+6. **Personalized Financial Advice**  
    The program gives advice, explanations, and tips in different formats to improve understanding.   
 
    ![Decision Example](CB5.png)  
