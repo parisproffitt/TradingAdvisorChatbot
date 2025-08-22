@@ -19,23 +19,17 @@ This Java program is an interactive chatbot designed to provide financial tradin
    Users can sell their shares of stock to demonstrate real-life trading scenarios.  
 
    ![Scenario Example](CB3.png)  
-
-4. **Selling**  
-   Users can sell their shares of stock to demonstrate real-life trading scenarios. 
+   ![Response Example](CB4.png)
    
-   ![Response Example](CB4.png)  
-
-6. **Personalized Financial Advice**  
+4. **Personalized Financial Advice**  
    The program gives advice, explanations, and tips in different formats to improve understanding.   
 
    ![Decision Example](CB5.png)  
 
-7. **Summarizes Information**  
-   Ends the program with key takeaways and money gained/lost.   
+5. **Summarizes Information**  
+   The chatbot ends the program with key takeaways and the money gained/lost by the user.   
 
    ![Expansion Example](CB6.png)  
-
----
 
 ## How It Works
 1. **User Query**  
@@ -49,8 +43,6 @@ This Java program is an interactive chatbot designed to provide financial tradin
 
 4. **Exiting**  
    The program will repeatedly ask the user to select an option until the user selects **3**, which exits the program.  
-
----
 
 ## Skills Showcased
 - Object-Oriented Programming (Classes, Methods, Objects)  
