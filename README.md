@@ -27,7 +27,7 @@ This Java program is an interactive chatbot designed to provide financial tradin
    ![Decision Example](CB5.png)  
 
 5. **Summarizes Information**  
-   The chatbot ends the program with key takeaways and the money gained/lost by the user.   
+   The chatbot ends the program with the user's stock portfolio and the money they gained/lost.   
 
    ![Expansion Example](CB6.png)  
 
