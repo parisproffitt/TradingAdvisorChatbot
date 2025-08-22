@@ -1,7 +1,7 @@
 # Trading Advisor Chatbot
 
 ## Purpose
-This Java program is an interactive chatbot designed to provide financial trading advice. Users can input market scenarios, ask about trading strategies, or request guidance on investments. The chatbot demonstrates advanced Java concepts including object-oriented programming, conditional logic, loops, and user input handling.  
+This Java program is an interactive chatbot designed to provide financial trading advice. Users can input market scenarios, ask about trading strategies, or request guidance on investments. The chatbot demonstrates Java object-oriented programming, conditional logic, loops, and user input handling.  
 
 ## Features
 
